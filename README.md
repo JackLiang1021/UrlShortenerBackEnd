@@ -47,4 +47,4 @@ Access `jakl.work/abc` to be redirected to the original link.
 * Admin interface for managing links
 
 
-**[Link to repo] (jakl.work/aYu)**
+**[Link to repo](jakl.work/aYu)**
